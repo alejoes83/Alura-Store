@@ -1,3 +1,6 @@
 # Alura-Store
 este es el resultado del challenge de Alura Store.
-se debe realizo en entorno Colab
+
+se realizo en entorno Colab.
+
+Pra ver analisis abrir en Colab y ejecutar una a una tosa las celdas para ir mostrando cada grafica y tabla del analisis.
